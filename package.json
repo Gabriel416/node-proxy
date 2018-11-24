@@ -1,0 +1,23 @@
+{
+  "name": "stat-compare-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel416/stat-compare-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel416/stat-compare-api/issues"
+  },
+  "homepage": "https://github.com/Gabriel416/stat-compare-api#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.1"
+  }
+}
